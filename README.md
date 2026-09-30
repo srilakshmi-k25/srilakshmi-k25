@@ -1,4 +1,4 @@
-# Hello, I’m Srilakshmi Kokanti 👋
+# Hello, I’m Srilakshmi K 👋
 
 I’m an **AI/ML Engineer** with 4+ years of experience building production-ready machine learning applications, Generative AI systems, agentic workflows, backend APIs, and cloud-based data platforms.
 
