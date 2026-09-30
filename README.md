@@ -153,9 +153,5 @@ I am currently exploring:
 * Production MLOps
 * Secure enterprise AI systems
 
-## Let’s Connect 🌐
-
-* **LinkedIn:** [linkedin.com/in/srilakshmikokanti](https://www.linkedin.com/in/srilakshmikokanti/)
-* **Email:** [srilakshmi.work06@gmail.com](mailto:srilakshmi.work06@gmail.com)
 
 > “Reliable AI is not just about generating an answer. It is about building the complete system around the model, including data, retrieval, validation, evaluation, deployment, monitoring, and user trust.”
